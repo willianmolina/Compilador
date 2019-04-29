@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556580140 source:c:\users\uilhiam\documents\faculdade\codeblocksprograms\compilador2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
